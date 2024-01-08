@@ -4,7 +4,7 @@ a) Create an algorithm that receives as an input a list of integers and returns 
 
   Example:
 
-    - Input: *list (1, 2, 3, 4)*
+    - Input: *list* *(1, 2, 3, 4)*
 
     - Expected output: 1
 
