@@ -23,6 +23,7 @@ public class QuestionThreeApp {
 			index -= 1;
 		}
 
+		// Populate stack
 		Stack<Integer> myStack = new Stack<>();
 		myStack.push(4);
 		myStack.push(3);
